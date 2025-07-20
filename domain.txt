@@ -1,1 +1,1 @@
-adservice.google.com
+|| adservice.google.com^
