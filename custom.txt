@@ -20,10 +20,4 @@
 ||youtubei.googleapis.com^
 ||connect.facebook.net^
 ||graph.facebook.com^
-!ad scripts loading
-/pagead.js
-/widget/ads
-/ads.js
-!cosmetic filters
-*##.adbox.banner_ads.adsbox
-*##.textads
+
