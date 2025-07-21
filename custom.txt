@@ -20,4 +20,3 @@
 ||youtubei.googleapis.com^
 ||connect.facebook.net^
 ||graph.facebook.com^
-
