@@ -1,0 +1,7 @@
+!ad scripts loading
+/pagead.js
+/widget/ads
+/ads.js
+!cosmetic filters
+*##.adbox.banner_ads.adsbox
+*##.textads
