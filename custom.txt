@@ -15,7 +15,6 @@
 ||ads.facebook.com^
 ||ads.reddit.com^
 ||bat.bing.com^
-||s.youtube.com^
 ||redirector.googlevideo.com^
 ||youtubei.googleapis.com^
 ||connect.facebook.net^
